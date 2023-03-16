@@ -31,7 +31,6 @@ public class Aluno {
 
     public void setNotas(notas) {
         this.notas = notas;
-    }
+    System.out.println(notas)
+         }
 }
-    
-    
